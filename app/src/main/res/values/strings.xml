@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyOdometer</string>
+    <string name="permission_denied">Location permission required</string>
+
+</resources>
